@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.742">
+    <testcase classname="Get_Pojo_Class" name="Get sorgu" time="6.313">
+        <system-out><![CDATA[* Herokuapp Api gerekli URL icin "booking" path param ve "John" query param hazirla.passed
+* Herokuapp Api Get Request Expected Body hazirla...........................passed
+* Herokuapp Api Get Request donen Response'i kaydet.........................passed
+* Herokuapp Api Get Request donen Response'i assert et......................passed
+]]></system-out>
+    </testcase>
+</testsuite>
